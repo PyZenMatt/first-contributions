@@ -1033,6 +1033,8 @@
 - [Prasad Tajne](https://github.com/Prasad-codes)
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [Ejaz Khan](https://github.com/ejazkhan172)
+- [Matteo Ricci](https://github.com/PyZenMatt)
+- [Web Site](https://matteoricci.net)
 - [dhrinch](https://github.com/dhrinch)
 - [Ruth Oster](https://github.com/ruttynext)
 - [its-TROY](https://github.com/its-TROY)
